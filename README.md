@@ -30,8 +30,8 @@ This model was trained to understand and generate text specific to cardiovascula
 
 This repo hosts documentation and pointers to:
 
-- 🔗 Model weights on Hugging Face: [`shubhambsk/CardioLlama`](https://huggingface.co/Hanfromfast/CardioLlama)
-- 🌐 Inference space: [`shubhambsk/CardioLlama`](https://huggingface.co/spaces/Hanfromfast/CardioLlama)
+- 🔗 Model weights on Hugging Face: [`Hanfromfast/CardioLlama`](https://huggingface.co/Hanfromfast/CardioLlama)
+- 🌐 Inference space: [`Hanfromfast/CardioLlama`](https://huggingface.co/spaces/Hanfromfast/CardioLlama)
 - 🧾 Example prompts and expected responses
 - 📜 Licensing and limitations
 
