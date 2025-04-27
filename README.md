@@ -7,7 +7,7 @@ It is built on the **LLaMA-2-7B** architecture and fine-tuned using **LoRA** (Lo
 
 ## 🚀 Quick Start
 
-👉 **[Run CardioLlama on Hugging Face Spaces](https://huggingface.co/spaces/Hanfromfast/CardioLlama)**  
+👉 **[Run CardioLlama on Hugging Face Spaces](https://huggingface.co/spaces/CardioLlama/CardioLlama)**  
 Interact with the model directly from your browser. No setup required.
 
 ---
@@ -30,8 +30,8 @@ This model was trained to understand and generate text specific to cardiovascula
 
 This repo hosts documentation and pointers to:
 
-- 🔗 Model weights on Hugging Face: [`Hanfromfast/CardioLlama`](https://huggingface.co/Hanfromfast/CardioLlama)
-- 🌐 Inference space: [`Hanfromfast/CardioLlama`](https://huggingface.co/spaces/Hanfromfast/CardioLlama)
+- 🔗 Model weights on Hugging Face: [`CardioLlama/CardioLlama`](https://huggingface.co/CardioLlama/CardioLlama)
+- 🌐 Inference space: [`CardioLlama/CardioLlama`](https://huggingface.co/spaces/CardioLlama/CardioLlama)
 - 🧾 Example prompts and expected responses
 - 📜 Licensing and limitations
 
