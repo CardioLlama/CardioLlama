@@ -7,7 +7,8 @@ It is built on the **LLaMA-2-7B** architecture and fine-tuned using **LoRA** (Lo
 
 ## 🚀 Quick Start
 
-👉 **[Run CardioLlama on Hugging Face Spaces](https://huggingface.co/spaces/CardioLlama/CardioLlama)**  
+👉 **[Run CardioLlama on Hugging Face Spaces](https://huggingface.co/spaces/CardioLlama/CardioLlama)** 
+👉 **[Run CardioLlama on Hugging Face Spaces (Duplicate Space)](https://huggingface.co/spaces/CardioLlama/CardioLlama-Chatbot)** 
 Interact with the model directly from your browser. No setup required.
 
 ---
@@ -32,6 +33,7 @@ This repo hosts documentation and pointers to:
 
 - 🔗 Model weights on Hugging Face: [`CardioLlama/CardioLlama`](https://huggingface.co/CardioLlama/CardioLlama)
 - 🌐 Inference space: [`CardioLlama/CardioLlama`](https://huggingface.co/spaces/CardioLlama/CardioLlama)
+- 🌐 Inference space (Duplicate): [`CardioLlama/CardioLlama-Chatbot`](https://huggingface.co/spaces/CardioLlama/CardioLlama-Chatbot)
 - 🧾 Example prompts and expected responses
 - 📜 Licensing and limitations
 
